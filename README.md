@@ -1,5 +1,4 @@
-Here’s a sample `README.md` for your **Nike Sales Dashboard** Power BI report (`Nike_Sales_DashBoard.pbit`), assuming it presents interactive sales insights for Nike products.
-
+# Nike Sales Dashboard
 ---
 
 ````markdown
