@@ -41,8 +41,8 @@ This Power BI dashboard provides a comprehensive overview of Nike's sales perfor
 Nike_Sales_DashBoard.pbit  # Power BI template file with prebuilt visuals, layout, and data model
 ````
 ## Screenshots
-![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191613.png)
-![Screenshot 2](https://github.com/ashittis/repot/blob/main/Screenshot%202025-07-11%20191613.png)
+![Screenshot 2](https://github.com/ashittis/nikepowerbi/blob/main/Screenshot%202025-07-12%20013510.png)
+![Screenshot 2](https://github.com/ashittis/nikepowerbi/blob/main/Screenshot%202025-07-12%20013523.png)
 
 ## 🧑‍💼 Intended Users
 
